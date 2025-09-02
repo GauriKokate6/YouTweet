@@ -14,7 +14,6 @@
   
     
   "dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js"
-
   
   },
   
@@ -43,6 +42,12 @@
   },
   
   "dependencies": {
+  
+    
+  "cookie-parser": "^1.4.7",
+  
+    
+  "cors": "^2.8.5",
   
     
   "dotenv": "^17.2.1",
